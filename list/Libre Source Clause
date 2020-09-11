@@ -1,7 +1,15 @@
 Libre Source Clause
 
 Subject to the terms and conditions of this license, all redistributions, modified
-or unmodified, must include the source code encompassing the software and 3rd-party
-non-system applications dynamically/statically linked with the software, as well as
-the tools required to build the binary form of the software, in its entirety and full
-functionality.
+and unmodified, must include the source code encompassing the software itself and 
+all 3rd-party non-system application(s) dynamically/statically linked with the software,
+as well as the tools required to build the binary form of the software, in its entirety
+and full functionality.
+
+Limited Libre Source Clause
+
+Subject to the terms and conditions of this license, all redistributions within 6 months
+of availability of the software it was derived from, modified and unmodified, must include
+the source code encompassing the software itself and all 3rd-party non-system application(s)
+dynamically/statically linked with the software, as well as the tools required to build the
+binary form of the software, in its entirety and full functionality.
