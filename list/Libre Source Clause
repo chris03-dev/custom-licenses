@@ -1,5 +1,7 @@
 Libre Source Clause
 
-Subject to the terms and conditions of this license, all distributions must
-contain the source code encompassing the software, and all other non-system
-applications dynamically/statically linked with the software.
+Subject to the terms and conditions of this license, all redistributions, modified
+or unmodified, must include the source code encompassing the software and 3rd-party
+non-system applications dynamically/statically linked with the software, as well as
+the tools required to build the binary form of the software, in its entirety and full
+functionality.
