@@ -1,17 +1,33 @@
 Copyright (c) <copyright-holder>, <year>
   
-Use, modification, and redistribution of the software as a contributor is
-hereby permitted with the conditions of:
-1. Retaining the copyright notice and license conditions on the source files.
-2. Provision of the source files under the same license conditions, upon 
-redistribution of the software.
-3. Forgoing any use of trademarks in the software, unless given specific
-written permission by the copyright holder.
+Use, modification, and redistribution of the software as a contributor are permitted
+provided that the following conditions are met:
+
+  1. Retaining of the copyright notice, license conditions and disclaimer on the
+  source directory.
+  
+  2. Reproduction of the copyright notice and a reference to this license in all 
+  source files under this license. If an offline copy is not provided along with the
+  distribution, provide a link to 
+  https://github.com/chris03-dev/custom-licenses/edit/master/list/Libre%20License#L9.
+  
+  3. Provision of all source files under this license, to be subject to the same or
+  more restrictive license conditions, upon redistribution of the software.
+  
+  4. Provision of all software tools and scripts necessary to generate all binaries
+  of the software, in its entirety and full functionality.
+  
+  5. Forgoing any use of the copyright holder's trademarks in the software, unless
+  given specific written permission by the copyright holder.
 
 Subject to the terms and conditions of the license, each contributor grants you
 a non-exclusive, worldwide, royalty-free patent license to make, have made, use,
 sell, offer for sale, import, and/or otherwise dispose of its contribution in 
 the software or derivative works of the contribution in the software.
 
-No warranties of any kind are implied or expressed by the copyright holder or the
-contributors of the software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, IMPLIED OR EXPRESSED BY
+THE COPYRIGHT HOLDER OR THE CONTRIBUTORS OF THE SOFTWARE. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INDCIDENTAL, SPEICAL, EXEMPLARY,
+OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
