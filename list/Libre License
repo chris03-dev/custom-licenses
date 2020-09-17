@@ -1,24 +1,22 @@
 Copyright (c) <copyright-holder>, <year>
-  
-Use, modification, and redistribution of the software as a contributor are permitted
-provided that the following conditions are met:
 
-  1. Retaining of the copyright notice, license conditions and disclaimer on the
-  source directory.
+Use, modification, and redistribution of the software as a contributor are permitted
+provided that the software:
+
+  1. Retains this copyright notice, this list of conditions and disclaimer on the 
+  source directory of the software.
   
-  2. Reproduction of the copyright notice and a reference to this license in all 
-  source files under this license. If an offline copy is not provided along with the
-  distribution, provide a link to 
-  https://github.com/chris03-dev/custom-licenses/edit/master/list/Libre%20License#L9.
+  2. Reproduces the copyright notice and a reference to this license in all 
+  source files under the license.
   
-  3. Provision of all source files under this license, to be subject to the same or
-  more restrictive license conditions, upon redistribution of the software.
+  3. Provides a copy of all source files under this license, subject to this
+  list of conditions upon redistribution of the software.
   
-  4. Provision of all software tools and scripts necessary to generate all binaries
+  4. Provides all software tools and scripts necessary to generate all binaries
   of the software, in its entirety and full functionality.
   
-  5. Forgoing any use of the copyright holder's trademarks in the software, unless
-  given specific written permission by the copyright holder.
+  5. Disallows any reuse of the copyright holder's trademarks in the software, 
+  unless given specific written permission by the copyright holder.
 
 Subject to the terms and conditions of the license, each contributor grants you
 a non-exclusive, worldwide, royalty-free patent license to make, have made, use,
