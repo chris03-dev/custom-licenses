@@ -43,11 +43,11 @@ Permissions Notice
         2.1. All distributions, unmodified or derived, shall retain the copyright notice, its conditions, and its disclaimers.
         2.2. All unmodified distributions of the software shall retain the MRPL license encompassing the software ONLY.
         2.3. All source files used to create the binaries in distributions must be made available to the licensor in a digital 
-        form, unrestricted from tivoization.
+        source format.
         
             2.3.1. If the distribution is open-source, no additional conditions are required.
-            2.3.2. If the distribution is closed-source, the source files must be made available to the licensor within 72
-            hours upon the licensor's request.
+            2.3.2. If the distribution is closed-source, the source files must be made available to the licensor within 14
+            days upon the licensor's request.
     
     3. With exception to the licensor, unless explicitly stated otherwise in the permissions notice, use of any patents and 
     trademarks in connection with the licensor's MRPL-licensed software is prohibited.
@@ -57,11 +57,12 @@ Permissions Notice
         2.4.2. The licensor has full responsibility to properly disclose all patents and trademarks used in the software.
         Failure to do so shall nullify any and all claims of infringement of the omitted patents and trademarks, in response
         to violations by distributors of MRPL-derived software.
-        2.4.3. Use of trademarks in connection with the MRPL-licensed software, if such use case is permitted, in its derived
-        distributions must be done in way such that the distributor does not imply any affiliation with the licensor.
+        2.4.3. Use of trademarks in connection with MRPL-licensed software, if such use case is permitted, must be done in way 
+        such that the distributor does not imply any affiliation with the licensor.
         2.4.4. If the patent grant is non-exclusive, subsequent distributors are allowed to exercise the patent grant in future
         distributions of the software, as long as such patent grant is included in the premissions notice of their respective
-        distributions. Failure to do so will revoke the patent grant from the distribution(s) complicit in such an act.
+        distributions. Failure to provide the non-exclusive patent grant in the distribution, in this case, will result in revocation
+        of the patent grant from the distributor(s) complicit in such an act.
     
     4. With exception to the licensor, any act of relicensing, or dual-licensing MRPL-licensed or MRPL-derived software is
     prohibited.
