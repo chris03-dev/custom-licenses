@@ -8,9 +8,10 @@ Definitions
              - can be, but not limited to, the sole developer, maintainer and/or publisher, of the software
     Distributor - any entity who releases MRPL-licensed software distributions
     
-    Software - any file or a set of files referring to code, in source or binary form
-    Source file - code in human-readable format for developer use
-    Binary file - code in machine-readable format for end-user services
+    Software - any file or a set of files referring to code representing instructions or operations
+    Source file - file containing code in human-readable format for developer use, or tools to compile the source files
+    Executable file - file containing code in machine-readable format for end-user services
+    Binary file - file containing code in human-unreadable, machine-readable format
     
     MRPL-licensed software - software licensed under the MRPL, under the licensor's copyright
     
@@ -36,7 +37,7 @@ Permissions Notice
     and distribute the software, without any payments or royalties, under the following conditions:
     
     1. The above copyright notice shall be included in all copies or substantial portions of the software.
-    2. With exception to the licensor, once the software is distributed or published in binary and/or source form, the 
+    2. With exception to the licensor, once the software is distributed or published in executable and/or source form, the 
     software will be considered a distribution, and the entity responsible will be associated as its distributor, subject 
     to the following conditions:
     
@@ -45,9 +46,8 @@ Permissions Notice
         2.3. All source files used to create the binaries in distributions must be made available to the licensor in a digital 
         source format.
         
-            2.3.1. If the distribution is open-source, no additional conditions are required.
-            2.3.2. If the distribution is closed-source, the source files must be made available to the licensor within 14
-            days upon the licensor's request.
+            2.3.1. If the distribution includes all of the software's source files, no additional conditions are required.
+            2.3.2. Otherwise, the source files must be made available to the licensor within 14 days upon the licensor's request.
     
     3. With exception to the licensor, unless explicitly stated otherwise in the permissions notice, use of any patents and 
     trademarks in connection with the licensor's MRPL-licensed software is prohibited.
@@ -61,8 +61,8 @@ Permissions Notice
         such that the distributor does not imply any affiliation with the licensor.
         2.4.4. If the patent grant is non-exclusive, subsequent distributors are allowed to exercise the patent grant in future
         distributions of the software, as long as such patent grant is included in the premissions notice of their respective
-        distributions. Failure to provide the non-exclusive patent grant in the distribution, in this case, will result in revocation
-        of the patent grant from the distributor(s) complicit in such an act.
+        distributions. Failure to provide the non-exclusive patent grant in the distribution, in this case, will result in 
+        revocation of the patent grant from the distributor(s) complicit in such an act.
     
     4. With exception to the licensor, any act of relicensing, or dual-licensing MRPL-licensed or MRPL-derived software is
     prohibited.
