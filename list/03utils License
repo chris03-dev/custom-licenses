@@ -22,15 +22,15 @@ Definition of Terms
   5. "Project" shall mean the source files and build tools used to create a copy of
   the software.
   
-  6. "Third-party contributor" shall mean any entity that has modified a project's
-  source files without holding any copyright on the original software. In a similar
-  note, the copyright holder(s) of a project are "third-party contributors" for the
-  third-party software that their project uses.
+  6. "Contributor" shall mean any entity that has modified a project's source files
+  without holding any copyright on the original software. In a similar note, the
+  copyright holder(s) of a project are "third-party contributors" for the third-party
+  software that their project uses.
 
 List of Conditions
 
-Redistribution of software generated using source files subject under this license
-as a third-party contributor is permitted, provided that the software:
+Redistribution of software generated using source files under this license as a 
+contributor is permitted, provided that the software:
 
   1. Retains this copyright notice, this list of conditions and disclaimer on the
   source directory of the software.
@@ -43,11 +43,11 @@ as a third-party contributor is permitted, provided that the software:
     This software is under the 03utils License. You may access the full license text
     in the 'LICENSE.md' file in the project's root directory, or by visiting:
   
-    'https://raw.githubusercontent.com/chris03-dev/custom-licenses/master/list/Pragma%20Libre%20License'
+    'https://raw.githubusercontent.com/chris03-dev/custom-licenses/master/list/03utils%20License'
   
   ...in the software, using '--help', '--license', or similar flags when accessed
   via a terminal, or in the 'Help' or 'About' menu when accessed with a user
-  interface, and in the beggining of all source files.
+  interface, and in the beggining of all source files under this license.
   
   4. Does not infringe on trademarks applied on the software, unless the copyright
   holder(s) have given permission to use them in the redistribution of the project.
