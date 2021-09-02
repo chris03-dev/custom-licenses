@@ -1,75 +1,110 @@
 Copyright (c) <copyright-holder>, <year>
 
+03utils License v1.0
+
 Definition of Terms
   
-  1. "Software" shall mean any file that reads input and produces output with the use
-  of a computer through its execution, which may or may not be dependent on third-party
+  1. "Software" shall mean any file that contains a set of instructions for the
+  computer to accept input, process data and/or produce output, that can be loaded
+  and executed with the use of a computer and its environment(s).
+  
+  2. "Dependency" shall mean any software that is produced by entities other than
+  the copyright holder(s) unless explicitly stated in this license text, that is
+  required for the production of, or execution of the software.
+  
+  3. "Environment" shall mean any interface that the computer is running in order
+  to be able to execute other software, which include, but not limited to, in order
+  of abstraction: emulators, virtual machines, compatibility layers, operating system
+  software, and boot firmware. Environments are not considered to be dependencies.
+  
+  4. "Source file" shall mean any file containing human-readable abstractions of
+  the software that allows for derivation of the software. They are used as input
+  for build tools to produce a specific set of instructions for the software, or
+  for interpreters as the instructions to be loaded and executed. In the latter
+  case, they are also considered software.
+  
+  5. "Execution" shall mean any action performed due to a set of instructions in
+  a computer or its environment(s). Such instructions must be loaded in memory
+  from the software that contains them.
+  
+  6. "Reproduction" shall mean the duplication of data, without any modifications
+  made to the resulting copy upon redistribution of the software.
+  
+  7. "Redistribution" shall mean the transmission of data to computers which are
+  authorized for access by any entity other than the copyright holder(s) of the
   software.
   
-  2. "Third-party software" shall mean any software that is produced by entities other
-  than the copyright holder(s) unless explicitly stated otherwise, that is required for
-  the production of, or execution of the software.
+  8. "Derivation" shall mean the addition, modification, and/or deletion of source
+  files, in whole or in part(s), to modify the production of the software with the
+  use of build tools, or the software itself, if the source files are used as input
+  for an interpreter.
   
-  3. "Redistribution" shall mean the transmission of software to computers which are
-  authorized to access by any entity other than the copyright holder(s) of the software,
-  unless the necessary third-party software to execute the given software is not present
-  on the recipient computer(s).
+  9. "Build tool" shall mean any software that reads source files as input, and
+  produces software as output. Build tools are considered to be dependencies, even
+  if the tools are also produced by the same copyright holder(s) in the project.
   
-  4. "Source file" shall mean any file containing abstractions of the software that allows
-  for humanly accessible derivation of the software with the use of build tools, or with
-  the use of interpreters, in which case they are also considered software.
+  10. "Interpreter" shall mean any software that executes instructions by directly
+  using source files as input. Similar to build tools, interpreters are considered
+  to be dependencies, even if the interpreters are also owned by the project's
+  copyright holder(s).
   
-  5. "Build tools" shall mean any software that reads source files as input, and produces
-  software as output. They are considered third-party software, even if the tools are also
-  owned by the project's copyright holder(s).
+  11. "Contributor" shall mean any entity that has modified a project's source
+  files without holding any prior copyright on the original software. Copyright
+  holder(s) of a project are "contributors" for the dependencies that their
+  project uses.
   
-  6. "Interpreter" shall mean any software that provides an interface to emulate software
-  using source files as input. Similar to build tools, they are considered third-party
-  software, even if the interpreters are also owned by the project's copyright holder(s).
-  
-  7. "Contributor" shall mean any entity that has modified a project's source files without
-  holding any copyright on the original software. In a similar note, the copyright holder(s)
-  of a project are "contributors" for the third-party software that their project uses.
-
-  8. "Project" shall mean the source files, as well as build tools for the production of
-  the software, or interpreters for the execution of source files as software. Source files
-  for third-party software may or may not be included in the project by the copyright
-  holder(s), unless enforced by the software licenses assigned to such source files,
-  albeit on an individual basis for each third-party software.
+  12. "Project" shall mean a directory containing source files, as well as build
+  tools for the production of the software, or interpreters for the execution of
+  source files as software.
   
 List of Conditions
 
-Redistribution of software using source files under this license as a contributor is granted,
-provided that you:
+Redistribution of software produced with at least one source file under this software
+license as a contributor is granted, provided that you have satisfied the following
+conditions:
 
-  1. Retain this copyright notice, definition of terms, list of conditions, patent grant and
-  disclaimer on the source directory of the software.
+  1. Reproduce this copyright notice, definition of terms, list of conditions, patent
+  grant and disclaimer in a text-readable file along with this software.
   
-  2. Provide a copy of the project used to produce a fully functional copy of the software,
-  with all source files subject to this list of conditions.
+  2. Reproduce a copy of the project used to produce a copy of this software. 
+     
+  Source files for dependencies may or may not be included in the project, unless
+  enforced by the software licenses assigned to such source files, albeit on an
+  individual basis.
   
-  3. Reproduce this copyright notice and the following clause:
-  
-    This software is under the 03utils License. You may access the full license text in the
-	  'LICENSE.md' file in the project's root directory, or by visiting:
+  3. Reproduce this copyright notice, and the following clause:
+    
+    Copyright (c) <copyright-holder>, <year>
+    
+    This source file is under the 03utils License. You may access the full license
+	text in the 'LICENSE.md' file in the project's root directory, or by visiting:
     
     'https://raw.githubusercontent.com/chris03-dev/custom-licenses/master/list/03utils%20License'
+    
+  ...in the beggining of all source files under this license, as well as any new
+  source files (if any) created in the derivation of this software, in comparison
+  to the original project.
   
-  ...in the software, using '--help', '--license', or similar flags when accessed via a
-  terminal, or in the 'Help' or 'About' menu when accessed with a user interface, and in
-  the beggining of all source files under this license.
+  4. Refrain from modifying existing copyright notices included in this license text,
+  or in any source files contained within the project.
   
-  4. Do not infringe on the trademarks applied on the software, unless the copyright
-  holder(s) have given permission to use them in the redistribution of the project.
+  5. Refrain from infringing on any trademark(s) applied on the software, unless the
+  copyright holder(s) have granted you written permission to use them in the software.
 
 Subject to the terms and conditions of the license, each contributor grants you
 a non-exclusive, worldwide, royalty-free patent license to make, have made, use,
 sell, offer for sale, import, and/or otherwise dispose of its contribution in 
 the software or derivative works of the contribution in the software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, IMPLIED OR EXPRESSED BY
-THE COPYRIGHT HOLDER OR THE CONTRIBUTORS OF THE SOFTWARE. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INDCIDENTAL, SPEICAL, EXEMPLARY,
-OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
-USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+FAILURE TO COMPLY WITH THIS LIST OF CONDITIONS WILL RESULT IN INDEMNIFICATION, AND/OR
+PROSECUTION TO THE FULLEST EXTENT OF THE LAW. IF YOU DO NOT AGREE TO THIS LIST OF
+CONDITIONS, YOU MAY NOT REDISTRIBUTE THE SOFTWARE, OR THE PROJECT(S) PROVIDED WITH
+THE SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, IMPLIED OR EXPRESSED
+BY THE COPYRIGHT HOLDER OR THE CONTRIBUTORS OF THE SOFTWARE. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INDCIDENTAL,
+SPEICAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
